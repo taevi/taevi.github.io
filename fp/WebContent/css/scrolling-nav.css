@@ -4,15 +4,19 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
 .banner {
-	 padding: 600px 0 300px;
+	 padding: 500px 0 50px;
 	 background-image: url(../img/sky.jpg);
 	 background-attachment: fixed;
 }
 .arti {
-  	padding: 150px 0;
+  	padding: 100px 0;
 }
 
-.logo_intro {
+.arti_h {
+  	padding: 0 0 200px;
+}
+
+.icon {
 	width: 100%;
 	text-align: center;
 }
@@ -23,4 +27,8 @@
 
 .footer_wp {
 	text-align: right;
+}
+
+.menuimg {
+	background-image: url(../img/login_de.png);
 }
