@@ -20,6 +20,11 @@
 	width: 100%;
 	text-align: center;
 }
+.icon:hover {
+	width: 100%;
+	text-align: center;
+	color: #343a40;
+}
 
 .login_btn {
 	right: 0px;
@@ -31,4 +36,16 @@
 
 .menuimg {
 	background-image: url(../img/login_de.png);
+}
+
+.table_tt {
+	width: 750px;
+}
+
+.table_main {
+	text-align: left;
+}
+
+.table_sub {
+	text-align: right;
 }
