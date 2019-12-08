@@ -5,8 +5,10 @@
  */
 .banner {
 	 padding: 500px 0 50px;
-	 background-image: url(../img/sky.jpg);
+	 background-image: url(https://media.giphy.com/media/3oEdv687nSbdehMRj2/giphy.gif);
 	 background-attachment: fixed;
+	 background-repeat: no-repeat;
+	 background-size: cover;
 }
 .arti {
   	padding: 100px 0;
