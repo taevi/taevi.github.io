@@ -84,3 +84,6 @@ ul {
 .pro_img {
  float: inherit;
 }
+.bg-light-blue {
+	background-color: #F6F6F6;
+}
