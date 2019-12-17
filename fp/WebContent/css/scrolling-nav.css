@@ -50,12 +50,33 @@
 
 .table_sub {
 	text-align: right;
+
 }
- .lead_2 {
+.lead_2 {
 	 font-size:1.1rem;
-	 font-weight:300
+	 font-weight:300;
  }
-  .lead_3 {
+ .text_bold {
+	 font-weight: bold;
+ }
+.lead_3 {
  	 font-size:1rem;
  	 font-weight:300
-  }
+}
+.slick_cen {
+	text-align: center;
+}
+.slick_list_view {
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	width: 315px;
+	height: 180px;
+	padding: 0px auto;
+}
+.slick_view {
+	width: 730px;
+}
+.bg_gray2 {
+	background-color: #5B6670;
+}
