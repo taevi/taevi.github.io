@@ -39,18 +39,14 @@
 .menuimg {
 	background-image: url(../img/login_de.png);
 }
-
 .table_tt {
-	width: 750px;
+	width: 100%;
 }
-
 .table_main {
 	text-align: left;
 }
-
 .table_sub {
 	text-align: right;
-
 }
 .lead_2 {
 	 font-size:1.1rem;
@@ -59,9 +55,12 @@
  .text_bold {
 	 font-weight: bold;
  }
+ .text_400 {
+	 font-weight: 400;
+ }
 .lead_3 {
  	 font-size:1rem;
- 	 font-weight:300
+ 	 font-weight:300;
 }
 .slick_cen {
 	text-align: center;
@@ -70,13 +69,18 @@
 	background-size: cover;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
-	width: 315px;
-	height: 180px;
+	width: 100%;
 	padding: 0px auto;
 }
 .slick_view {
-	width: 730px;
+	width: 100%;
 }
 .bg_gray2 {
 	background-color: #5B6670;
+}
+ul {
+	list-style: none;
+}
+.pro_img {
+ float: inherit;
 }
